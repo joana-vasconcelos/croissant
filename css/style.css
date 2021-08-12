@@ -1,4 +1,38 @@
 
+body {
+    margin: 25px 50px 50px;
+    background: #f8d0a8b9;
+}
+
+.main-header {
+    text-align: center;
+   color: rgb(202, 115, 29)
+}
+
+.croissant-description {
+    text-align: center;
+    font-size: 15px;  
+    background: rgba(205, 134, 63, 0.315);
+    padding: 10px 5px;
+    border-radius: 5px;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 30px;
+    
+}
+
+.footer a {
+    margin: 0 20px;
+    color:peru;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
 
 .croissant-img {
     width: 450px;
@@ -9,5 +43,14 @@
 .image-header {
     text-align: center;
     font-size: 30px;
-   
+    color: rgb(202, 115, 29);
+}
+
+.header-contact {
+    text-align: center;
+    color: rgb(202, 115, 29);
+}
+
+.contact-description {
+    text-align: center;
 }
