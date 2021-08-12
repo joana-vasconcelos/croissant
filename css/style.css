@@ -1,0 +1,13 @@
+
+
+.croissant-img {
+    width: 450px;
+    display: flex;
+    margin: 0 auto;
+}
+
+.image-header {
+    text-align: center;
+    font-size: 30px;
+   
+}
